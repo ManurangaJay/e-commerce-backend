@@ -79,4 +79,6 @@ public class Product {
     public void setReviewsCount(int reviewsCount) {
         this.reviewsCount = reviewsCount;
     }
+
 }
+
